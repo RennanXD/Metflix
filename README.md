@@ -1,2 +1,2 @@
 # Netflix
-Um login basico do sistema de streaming netflix
+A tela inicial do sistema de streaming da netflix

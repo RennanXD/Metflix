@@ -1,2 +1,2 @@
 # Netflix
-A tela inicial do sistema de streaming da netflix
+Um prototipo do sistema de streaming netflix
